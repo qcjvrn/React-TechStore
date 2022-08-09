@@ -39,5 +39,3 @@ class App extends Component {
 }
 
 export default App;
-
-// Version 1
